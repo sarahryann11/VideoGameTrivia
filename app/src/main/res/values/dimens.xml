@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="welcomeTextSize">65sp</dimen>
+    <dimen name="chooseTextSize">40sp</dimen>
+    <dimen name="enterNameTextSize">30sp</dimen>
+    <dimen name="enterNameEditTextSize">30sp</dimen>
+    <dimen name="playTextSizes">30sp</dimen>
+    <dimen name="finalScoreTextSize">55sp</dimen>
+    <dimen name="finalScoreScoreTextSize">50sp</dimen>
+    <dimen name="bigButtonTextSizes">40sp</dimen>
+    <dimen name="mediumButtonTextSizes">30sp</dimen>
+    <dimen name="welcomeButtonSize">25sp</dimen>
+    <dimen name="hearts">80dp</dimen>
+    <dimen name="smallHearts">40dp</dimen>
+    <dimen name="verySmallHearts">30dp</dimen>
+    <dimen name="howToTextSize">50sp</dimen>
+    <dimen name="instructionsTextSize">20sp</dimen>
+    <dimen name="goodLuckTextSize">40sp</dimen>
+    <dimen name="topTenScoresTextSize">40sp</dimen>
+</resources>

@@ -1,0 +1,53 @@
+<resources>
+    <!-- Welcome Screen -->
+    <string name="app_name">Video Game Trivia</string>
+    <string name="welcomeName">Video Game Trivia</string>
+    <string name="welcomeButton">Click to Start!</string>
+
+    <!-- Home Screen -->
+    <string name="choose">Choose a category to play!</string>
+    <string name="playButton">Play Game!</string>
+    <string name="howToButton">How To Play</string>
+    <string name="leaderboardButton">Leaderboards</string>
+    <string name="anyButton">Any Category Mode</string>
+
+    <!-- Category Scree -->
+    <string name="actionAdventureButton">Action/Adventure</string>
+    <string name="storyDrivenButton">Story Driven</string>
+    <string name="mmoButton">MMOs</string>
+
+    <!-- Play Screen *activity_main* -->
+    <string name="scoreName">Score:</string>
+    <string name="score">0</string>
+    <string name="timeName">Time:</string>
+    <string name="time">00:00</string>
+    <string name="radioButton">""</string>
+    <string name="finalScoreButton">Final Score</string>
+
+    <!-- Final Score/Username Screen -->
+    <string name="finalScoreName">Final Score:</string>
+    <string name="finalScore">0</string>
+    <string name="backHomeButton">Back to Home</string>
+    <string name="enterName">Enter Your Username!</string>
+    <string name="nameHint">Enter a username...</string>
+    <string name="submitButton">Submit!</string>
+
+    <!-- Leaderboards Screen -->
+    <string name="top10Scores">Top 10 Scores!</string>
+
+    <!-- Coming Soon Screen -->
+    <string name="comingSoon">Coming Soon!</string>
+    <string name="backToCategoriesButton">Back to Categories</string>
+
+    <!-- How To Screen -->
+    <string name="howTo">How To Play</string>
+    <string name="instructions">
+        First, pick which game category you would like to play, then enter your username
+        you would like to appear in the leaderboards and start the game! One-by-one,
+        the video game character will appear and choose which answer choice you think
+        is the character! Points will be added if you get it right, and no points will be
+        gained if you get it wrong.
+    </string>
+    <string name="goodLuck">Good Luck!!</string>
+
+</resources>
